@@ -9,3 +9,5 @@
 - Compatible with every browser
 ### Cons
 - Costs $4.99
+
+<!-- Copyright (C) Rise LLC 2025 -->
