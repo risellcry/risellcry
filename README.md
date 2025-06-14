@@ -1,4 +1,5 @@
-## Hi there 👋
+# Rise LLC
+- We are working on 2DE.
 
 <!--
 **risellcry/risellcry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
