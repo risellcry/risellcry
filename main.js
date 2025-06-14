@@ -21,3 +21,5 @@ close_info.onclick = function (event) {
     info.style.visibility = "hidden";
     why.textContent = "";
 };
+
+// Copyright (C) Rise LLC 2025
